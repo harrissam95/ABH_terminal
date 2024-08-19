@@ -1,4 +1,5 @@
 # Email Reader Terminal for tabletop RPGs
+https://github.com/jacksonbenete/email_terminal?tab=readme-ov-file#manifestjson
 
 ![Email Terminal Gif](docs/email_terminal.gif)
 
