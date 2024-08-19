@@ -1,0 +1,11 @@
+{
+    "serverAddress": "127.0.0.1",
+    "serverName": "<p class=desync>classified</p>",
+    "iconName": "Moon-icon.jpg",
+    "terminalID": "youdontbelong",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "notanonymous"
+    }
+}
