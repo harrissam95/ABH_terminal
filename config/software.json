@@ -13,16 +13,8 @@
         ]
     },
     "mission.exe": {
-        "protection": ["admin"],
-        "clear": true,
-        "delayed": 1000,
-        "message": [
-            "<p class=desync>Admin corrupted.</p>"
-        ]
-    },
-    "mission.exe": {
         "protection": ["crew"],
-        "clear": true,
+        "clear": false,
         "delayed": 1000,
         "message": [
             "<p class=desync>Crew corrupted.</p>"

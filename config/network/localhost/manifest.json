@@ -2,11 +2,11 @@
     "serverAddress": "localhost",
     "serverName": "OMNICOM Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "Crew.PC",
+    "terminalID": "crew.PC",
     "defaultUser": {
         "userId": "crew",
         "password": "",
-        "userName": "anonymous"
+        "userName": "guest"
     },
     "initialHistory": {
         "crew": [
