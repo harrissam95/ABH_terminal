@@ -21,7 +21,6 @@
             "<p class=hack-reveal>Re-establish satellite communications and get the terraformer back online.</p>",
             "<p class=hack-reveal>If all else fails, evacuate Dr. Edem, as well as the colony's synthetic science officer, Hinton (or at least retrieve his logic core).</p>",
             "<p class=hack-reveal>Any issues not pertaining to the mission should be ignored.</p>",
-            " ",
             "<p class=hack-reveal>Each member of the crew has been provided:</p>",
             "<p class=hack-reveal>- 2 months Salary, 1 month Hazard Pay</p>",
             "<p class=hack-reveal>- Transportation to and from Samsa VI, via The Metamorphosis</p>",
@@ -43,6 +42,7 @@
     },
     "cdata.exe": {
         "protection": ["admin"],
+        "secretCommand": true,
         "clear": true,
         "delayed": 1000,
         "message": [
@@ -73,12 +73,12 @@
             "<p class=desync>System corrupted.</p>"
         ]
     },
-    "target.exe": {
+    ".exe": {
         "protection": ["admin", "Maas"],
         "location": ["127.0.0.1", "localhost"],
         "secretCommand": true,
         "message": [
-            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=4 data-preserve-spaces=true>The future is known.</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=4 data-preserve-spaces=true>They know.</p>",
             "<img src=config/network/127.0.0.1/warning.jpeg title=\"you've been warned\" class=glitch style=\"width: 20rem; max-width: 100%;\">"
         ]
     }
