@@ -12,6 +12,22 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
+    "mission.exe": {
+        "protection": ["admin"],
+        "clear": true,
+        "delayed": 1000,
+        "message": [
+            "<p class=desync>Admin corrupted.</p>"
+        ]
+    },
+    "mission.exe": {
+        "protection": ["crew"],
+        "clear": true,
+        "delayed": 1000,
+        "message": [
+            "<p class=desync>Crew corrupted.</p>"
+        ]
+    },
     "cdata.exe": {
         "protection": ["admin"],
         "clear": true,
@@ -30,7 +46,7 @@
     "hello": {
         "protection": ["maas"],
         "clear": true,
-        "delayed": 1500,
+        "delayed": 1750,
         "secretCommand": true,
         "message": [
             "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=2 data-preserve-spaces=true>You are not Maas.</p>",

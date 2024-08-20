@@ -2,7 +2,7 @@
     "serverAddress": "localhost",
     "serverName": "OMNICOM Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "MetamorphosisPC",
+    "terminalID": "Crew.PC",
     "defaultUser": {
         "userId": "crew",
         "password": "",
