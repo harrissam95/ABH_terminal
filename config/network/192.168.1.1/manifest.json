@@ -2,7 +2,7 @@
     "serverAddress": "192.168.1.1",
     "serverName": "<p class=desync>classified</p>",
     "iconName": "Moon-icon.png",
-    "iconClass": "glitch",
+    "iconClass": "particle data-particules=1000",
     "iconTitle": "get out. look away.",
     "terminalID": "youdontbelong",
     "defaultUser": {
