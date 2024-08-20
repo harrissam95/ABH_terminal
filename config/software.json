@@ -38,8 +38,8 @@
         "clear": true,
         "delayed": 9000,
         "message": [
-            "<p class=hack-reveal data-alphabet='uppercase'>EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</p>",
-            "<p>ERROR: Exception 402 Insufficient Memory Allocated.</p>"
+            "<p class=hack-reveal>EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</p>",
+            "<p>ERROR: Exception 402 Insufficient Memory Allocated. Broadcast Terminated.</p>"
         ]
     },
     "cdata.exe": {
