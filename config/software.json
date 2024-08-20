@@ -13,12 +13,15 @@
         ]
     },
     "mission.exe": {
-        "protection": ["crew"],
         "clear": false,
-        "delayed": 1000,
+        "delayed": 2000,
         "message": [
-            "<p class=desync>Crew corrupted.</p>",
-            ""
+            "<p>Welcome to <p class=desync>OMNICOM</p></p>",
+            "Your mission is as follows:",
+            "Rendezvous with 2ndLt. Kaplan and assist them in repairing the situation.",
+            "Re-establish satellite communications and get the terraformer back online.",
+            "If all else fails, evacuate Dr. Edem, as well as the colony's synthetic science officer, Hinton (or at least retrieve his logic core).",
+            "Any issues not pertaining to the mission should be ignored."
         ]
     },
     "cdata.exe": {
@@ -42,7 +45,7 @@
         "delayed": 1750,
         "secretCommand": true,
         "message": [
-            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=6 data-preserve-spaces=true>You are not Maas.</p>",
+            "<p class=hack-reveal>You are not Maas.</p>",
             "Corrupting data.",
             "Corrupting data..",
             "Corrupting data...",
