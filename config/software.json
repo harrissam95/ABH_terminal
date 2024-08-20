@@ -32,14 +32,14 @@
             "Total failure is not an option. The company is watching."
         ]
     },
-    "shriek.exe": {
+    "broadcast.exe": {
         "protection": ["admin"],
         "location": ["127.0.0.1"],
         "clear": true,
-        "delayed": 10000,
+        "delayed": 9000,
         "message": [
-            "<p class=hack-reveal>EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</p>",
-            "<p>Broadcast terminated.</p>"
+            "<p class=hack-reveal data-alphabet='uppercase'>EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</p>",
+            "<p>ERROR: Exception 402 Insufficient Memory Allocated.</p>"
         ]
     },
     "cdata.exe": {
