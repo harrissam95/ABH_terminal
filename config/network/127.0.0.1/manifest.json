@@ -1,7 +1,9 @@
 {
     "serverAddress": "127.0.0.1",
     "serverName": "<p class=desync>classified</p>",
-    "iconName": "<p><img src=Moon-icon.png title=get out. look away. class=glitch /></p>",
+    "iconName": "Moon-icon.png",
+    "iconClass": "glitch",
+    "iconTitle": "get out. look away.",
     "terminalID": "youdontbelong",
     "defaultUser": {
         "userId": "user",
