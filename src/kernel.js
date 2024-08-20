@@ -325,7 +325,7 @@ system = {
                 const cmdNames = Object.keys( system ).filter(
                     ( cmd ) => {
                         const program = programs[ cmd ];
-                        return program !== null && !( program && program.secretCommand ) && cmd !== "dumpdb"; // hidden system command
+                        return program !== null && !( program && program.secretCommand ) && (cmd !== "dumpdb" && cmd !== "artifact" && cmd !== "decrypt" && cmd !== "identify"); // hidden system command
                     }
                 );
                 const progNames = Object.keys( programs ).filter(
