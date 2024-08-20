@@ -14,14 +14,22 @@
     },
     "mission.exe": {
         "clear": false,
-        "delayed": 2000,
+        "delayed": 4000,
         "message": [
-            "<p>Welcome to <p class=desync>OMNICOM</p></p>",
+            "<div><p>Welcome to OMNICOM™",
             "Your mission is as follows:",
             "Rendezvous with 2ndLt. Kaplan and assist them in repairing the situation.",
             "Re-establish satellite communications and get the terraformer back online.",
             "If all else fails, evacuate Dr. Edem, as well as the colony's synthetic science officer, Hinton (or at least retrieve his logic core).",
-            "Any issues not pertaining to the mission should be ignored."
+            "Any issues not pertaining to the mission should be ignored.",
+            "",
+            "Each member of the crew has been provided:",
+            "- 2 months Salary, 1 month Hazard Pay",
+            "- Transportation to and from Samsa VI, via The Metamorphosis",
+            "- 1x Hazard suit",
+            "- 1x SMG + 3x magazines",
+            "- 1x First aid kit",
+            "- 1x Stimpak"
         ]
     },
     "cdata.exe": {
