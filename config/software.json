@@ -60,8 +60,5 @@
             "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=2 data-preserve-spaces=true>The future is known.</p>",
             "<img src=config/network/127.0.0.1/warning.jpeg title=\"you've been warned\" class=glitch style=\"width: 20rem; max-width: 100%;\">"
         ]
-    },
-    "artifact": {},
-    "decrypt": {},
-    "identify": {}
+    }
 }
